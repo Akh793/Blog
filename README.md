@@ -6,6 +6,6 @@ Thanks,
 
 Bienvenue sur mon blog :
 
-Pour utiliser les site, vous devez recréer la strucutre MVC. Vous devez créer deux fichiers supplémentaires (images & style), et mettre toutes les images dans le dossier images, et tous les fichiers .css dans le dossier style.
+Pour utiliser le site, vous devez recréer la strucutre MVC. Vous devez créer deux fichiers supplémentaires (images & style), et mettre toutes les images dans le dossier images, et tous les fichiers .css dans le dossier style.
 
 Merci,
